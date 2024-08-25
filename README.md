@@ -4,12 +4,14 @@
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
 
+
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
 2. Read the data using the pandas
 3. Perform the data preprocessing if needed and apply regular differncing,seasonal adjustment,log transformation.
 4. Plot the data according to need, before and after regular differncing,seasonal adjustment,log transformation.
 5. Display the overall results.
+
 
 ### PROGRAM:
 ```py
@@ -53,6 +55,7 @@ for title, column in columns_to_plot.items():
     plt.show()
     print(f"{title}:\n", data[column].head())
 ```
+
 
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/fb93a37e-e76a-4574-a4c8-caa56abf392b)
