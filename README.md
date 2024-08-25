@@ -66,5 +66,4 @@ LOG TRANSFORMATION:
 
 
 ### RESULT:
-Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
-data.
+Thus we have created the python code for the conversion of XAUUAE data.
