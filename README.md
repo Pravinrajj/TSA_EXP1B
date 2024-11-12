@@ -1,8 +1,6 @@
-## DEVELOPED BY: PRAVINRAJJ G.K
-## Register no: 212222240080
 
 # Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
-# Date: 25-08-24
+# Date:
 
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on Gold prediction data(XAUUAE data).
